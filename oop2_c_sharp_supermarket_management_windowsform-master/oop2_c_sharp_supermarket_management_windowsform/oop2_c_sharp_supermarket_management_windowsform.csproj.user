@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AdminPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPageAddUserPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPageAllUserPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPageEditUserPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CheckoutPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventoryManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventoryManagerAddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventoryManagerAllProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventoryManagerEditProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MessagesChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MessagingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SupervisorPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WelcomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
